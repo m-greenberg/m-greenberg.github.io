@@ -4,4 +4,4 @@ This is the repository for [my academic website](http://www.max-greenberg.com), 
 
 # License
 
-This work is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0</a> license. It may therefore be cloned and personalized so long as the resulting work uses the same license and attribution is given both to me and to the original creator of the template.
+This work is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0</a>. It may therefore be cloned and personalized so long as the resulting work uses the same license and attribution is given both to me and to the original creator of the template.
