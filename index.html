@@ -10,9 +10,17 @@
     <meta name="viewport" content="width=device-width">
     <style>
       img {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
+        width: auto;
+        height: auto;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+      .centered {
+        width: auto;
+        height: auto;
+        position: relative;
       }
       
       div.panel {
@@ -51,9 +59,11 @@
           <a href="https://orcid.org/0009-0003-3700-7003">ORCID</a><br>
           <a href="http://github.com/m-greenberg">GitHub</a><br>
         </div>
-        105 Gordon Hall<br>
-        418 N. Pleasant St., Suite A<br>
-        Amherst, MA 01002
+        <div class="address-row">
+          105 Gordon Hall<br>
+          418 N. Pleasant St., Suite A<br>
+          Amherst, MA 01002<br>
+        </div>
       </header>
       <section>
         <img src="./sitefiles/maxgreenberg_square.jpg" height="250" alt="Max Greenberg ca. 2019" class="center"><br>
